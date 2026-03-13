@@ -7,13 +7,10 @@ An interactive multi-page Power BI dashboard analyzing car sales performance acr
 ## 📊 Dashboard Preview
 
 ### Home Page
-![Home](screenshots/home.png)
 
 ### Manufacturer Page
-![Manufacturer](screenshots/manufacturer.png)
 
 ### Car Model Page
-![Car Model](screenshots/car_model.png)
 
 ---
 
