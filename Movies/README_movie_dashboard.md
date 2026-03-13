@@ -7,13 +7,10 @@ An interactive multi-page Power BI dashboard analyzing global movie box office p
 ## 📊 Dashboard Preview
 
 ### Overview Dashboard
-![Overview](screenshots/overview.png)
 
 ### Director Analysis
-![Director Analysis](screenshots/director_analysis.png)
 
 ### Genre and Country Insights
-![Genre and Country](screenshots/genre_country.png)
 
 ---
 
@@ -119,9 +116,4 @@ orion-movie-dashboard/
 4. Use the **Light/Dark mode toggle** and navigation buttons to explore pages
 5. Apply slicers (Date, Country, Genre) to filter all visuals interactively
 
----
 
-## 👤 Author
-
-**[Your Name]**  
-[LinkedIn Profile](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
