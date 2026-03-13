@@ -97,9 +97,3 @@ car-sales-dashboard/
 3. Open `CarSalesDashboard.pbix` in Power BI Desktop
 4. Explore the interactive visuals and slicers
 
----
-
-## 👤 Author
-
-**[Your Name]**  
-[LinkedIn Profile](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
